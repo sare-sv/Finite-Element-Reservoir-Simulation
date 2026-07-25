@@ -75,6 +75,11 @@ The linear and quadratic FEM solutions show very close agreement.
 
 ---
 
+## Pressure Distribution
+
+The following figure shows the pressure distribution obtained using linear and quadratic finite element formulations.
+
+![Pressure Distribution](results/reservoir_pressure_plot.png)
 
 ---
 
